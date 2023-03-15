@@ -6,5 +6,6 @@ caption: Διαφάνειες για τον δομημένο προγραμμα�
 slides:
   - pascal
   - basic-language
+  - c-language
 ---
 

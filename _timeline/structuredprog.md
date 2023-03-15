@@ -6,5 +6,6 @@ caption: Στην πληροφορική δομημένος προγραμματ
 events:
   - pascal
   - basic-language
+  - c-language
 ---
 
