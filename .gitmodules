@@ -4,7 +4,7 @@
     branch = master
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/paranaloma/_gallery.git
+	url = https://github.com/paranaloma/_gallery
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
@@ -26,3 +26,6 @@
 	path = _includes/text
 	url = https://github.com/mibook/text.git
 	branch = main 
+[submodule "site"]
+	path = site
+	url = https://github.com/paranaloma/site
